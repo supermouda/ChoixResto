@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
+    //modified from github
     public partial class Form1 : Form
     {
         public Form1()
