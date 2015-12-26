@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    //modified from github and now from my pc
+    //modified from github and now from my pcs
     public partial class Form1 : Form
     {
         public Form1()
