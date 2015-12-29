@@ -12,3 +12,5 @@ D:\Travail\Program\FirstDialog.exe
 D:\Travail\Program\FirstDialog.pdb
 D:\Travail\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FirstDialog.exe
 D:\Travail\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FirstDialog.pdb
+D:\Travail\Program\ChoixResto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FirstDialog.exe
+D:\Travail\Program\ChoixResto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FirstDialog.pdb
